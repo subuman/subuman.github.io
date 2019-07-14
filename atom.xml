@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://subuman.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-07-14T01:54:53.022Z</updated>
+    <title>subuman的书桌</title>
+    <updated>2019-07-14T01:57:18.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://subuman.github.io"/>
     <link rel="self" href="https://subuman.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>为不值得做记录的东西做记录</subtitle>
     <logo>https://subuman.github.io/images/avatar.png</logo>
     <icon>https://subuman.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, subuman的书桌</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://subuman.github.io/post/hello-gridea</id>
