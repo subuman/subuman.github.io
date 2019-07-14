@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://subuman.github.io</id>
     <title>subuman的书桌</title>
-    <updated>2019-07-14T02:14:35.422Z</updated>
+    <updated>2019-07-14T02:16:02.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://subuman.github.io"/>
     <link rel="self" href="https://subuman.github.io/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2019-07-14T02:09:54.000Z</updated>
         <content type="html"><![CDATA[<p>今天一大早醒来，看到大家都在朋友圈刷屏着这张图：
-<img src="441911560c1468ba6060087122c50cd0_hd.jpg" alt=""></p>
+<img src="https://subuman.github.io/post-images/1563070547320.jpg" alt=""></p>
 <p>马来亚大学的世界排名（QS）从87名升至了70，可喜可贺，至少从明面上来说，我们（即将获得）的文凭也就更值钱了。</p>
 <p>听到这件事，我反而又想到了前几天看到有人在朋友圈里发了条说说，大意是说“来马来亚大学读研一段时间了，结果发现这里的老师和教学质量名不副实，对不起它‘马来西亚第一大学’的美誉，比如老师上课不认真、经常吃到、从不准备课本和ppt等等……”</p>
 <p>不得不说他说的情况确实存在，马大近几年在QS上的全球大学排行榜上年年上升，貌似行情也越来越好。但其实懂一点QS的人都知道，这个排名其实并不能真实反映出这个一个学校的真实情况，或者说并不能真正反映一个大学的教学质量，因为它还掺杂了其它因素作为权重对象，比如外国老师、学生人数比例，论文引用数、雇主对该校毕业生的评价等等。</p>
