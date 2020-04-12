@@ -2,31 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://subuman.github.io</id>
     <title>subuman的书桌</title>
-    <updated>2019-08-16T10:46:25.661Z</updated>
+    <updated>2020-04-12T15:11:20.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://subuman.github.io"/>
     <link rel="self" href="https://subuman.github.io/atom.xml"/>
     <subtitle>为不值得做记录的东西做记录</subtitle>
     <logo>https://subuman.github.io/images/avatar.png</logo>
     <icon>https://subuman.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, subuman的书桌</rights>
+    <rights>All rights reserved 2020, subuman的书桌</rights>
     <entry>
         <title type="html"><![CDATA[聊聊读研究生这件事]]></title>
-        <id>https://subuman.github.io/post/liao-liao-du-yan-jiu-sheng-zhe-jian-shi</id>
-        <link href="https://subuman.github.io/post/liao-liao-du-yan-jiu-sheng-zhe-jian-shi">
+        <id>https://subuman.github.io/post/liao-liao-du-yan-jiu-sheng-zhe-jian-shi/</id>
+        <link href="https://subuman.github.io/post/liao-liao-du-yan-jiu-sheng-zhe-jian-shi/">
         </link>
         <updated>2019-07-14T02:09:54.000Z</updated>
-        <content type="html"><![CDATA[<p>今天一大早醒来，看到大家都在朋友圈刷屏着这张图：
-<img src="https://subuman.github.io/post-images/1563070547320.jpg" alt=""></p>
+        <content type="html"><![CDATA[<p>今天一大早醒来，看到大家都在朋友圈刷屏着这张图：<br>
+<img src="https://subuman.github.io/post-images/1563070547320.jpg" alt="" loading="lazy"></p>
 <p>马来亚大学的世界排名（QS）从87名升至了70，可喜可贺，至少从明面上来说，我们（即将获得）的文凭也就更值钱了。</p>
 <p>听到这件事，我反而又想到了前几天看到有人在朋友圈里发了条说说，大意是说“来马来亚大学读研一段时间了，结果发现这里的老师和教学质量名不副实，对不起它‘马来西亚第一大学’的美誉，比如老师上课不认真、经常吃到、从不准备课本和ppt等等……”</p>
 <p>不得不说他说的情况确实存在，马大近几年在QS上的全球大学排行榜上年年上升，貌似行情也越来越好。但其实懂一点QS的人都知道，这个排名其实并不能真实反映出这个一个学校的真实情况，或者说并不能真正反映一个大学的教学质量，因为它还掺杂了其它因素作为权重对象，比如外国老师、学生人数比例，论文引用数、雇主对该校毕业生的评价等等。</p>
 <p>而近几年来，大家都知道马大一直在扩招，准入标准总体是呈下降趋势，尤其是外国研究生数量大增。究其原因——其实很尴尬——不过是学校经费紧张，需要更多的学生这样才能有更多的学费而已。而根据熵增定律，学校整体水平势必也会跟着下降。所以假如那位同学是抱着来一所顶级大学接受顶级老师的顶级教育，确实，想不失望都难。</p>
 <p>当然，今天的主要目的不是要吐槽学校，而是聊聊读研究生这件事，为什么我们要读研究生呢？</p>
-<p>以我浅薄的知识结构来看，本科阶段（仅就文科类而言）在知识方面的主要任务，就是在老师的指导下，将你带入到你所选择的领域之中，对它有着一个大概的了解：
-<img src="https://subuman.github.io/post-images/1563071610542.png" alt="">
-而研究生则是让你能够接触了解到这个领域内的某个分支如今的边界在何处？
-<img src="https://subuman.github.io/post-images/1563071630957.png" alt="">
+<p>以我浅薄的知识结构来看，本科阶段（仅就文科类而言）在知识方面的主要任务，就是在老师的指导下，将你带入到你所选择的领域之中，对它有着一个大概的了解：<br>
+<img src="https://subuman.github.io/post-images/1563071610542.png" alt="" loading="lazy"><br>
+而研究生则是让你能够接触了解到这个领域内的某个分支如今的边界在何处？<br>
+<img src="https://subuman.github.io/post-images/1563071630957.png" alt="" loading="lazy"><br>
 你需要知道这个分支有着什么样的理论？最经典以及最新的论文分别是什么样的？而很多时候，你的导师也未必就对你的研究方向完全清楚。因此这就需要你进行大量的阅读，课外的阅读。甚至可能还需要去听不同类型的讲座，参加各种workshop。因此在我看来，对大部分学生来说，本科和研究生就是由被动性转向主动性对过程。</p>
 <p>当然，对于很多学生来说，其实毕业后也未必真的就会从事自己所学的领域，那么读研究生的意义又在哪里呢？在我看来，读研究生，除了拿一个硕士研究生的文凭以外，重要的还有几点：</p>
 <p><strong>1. 了解我们当下世界运行的基础</strong></p>
@@ -45,8 +45,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[为什么需要具备批判性思维]]></title>
-        <id>https://subuman.github.io/post/wei-shi-me-xu-yao-ju-bei-pi-pan-xing-si-wei</id>
-        <link href="https://subuman.github.io/post/wei-shi-me-xu-yao-ju-bei-pi-pan-xing-si-wei">
+        <id>https://subuman.github.io/post/wei-shi-me-xu-yao-ju-bei-pi-pan-xing-si-wei/</id>
+        <link href="https://subuman.github.io/post/wei-shi-me-xu-yao-ju-bei-pi-pan-xing-si-wei/">
         </link>
         <updated>2015-01-06T06:24:30.000Z</updated>
         <content type="html"><![CDATA[<p>第一次接触<strong>批判性思维</strong>这个词，是在两年前读的《如何阅读一本书》里，有一个章节里提到了<strong>批判性阅读</strong>的方法。当时没有见过这种说法，比较好奇，就去网络上搜索了很多资料来看，之后才慢慢的明白何为批判性思考。</p>
